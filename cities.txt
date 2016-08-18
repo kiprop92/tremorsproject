@@ -1,0 +1,16 @@
+1	Nairobi	Nairobi	13246546
+2	Mombasa	Mombasa	989446
+3	Kisumu	Kisumu	54556
+4	Nakuru	Nakuru	989895
+5	Eldoret	Uasin Gishu	48567
+7	Ruiru	Kiambu	44656
+8	Homabay	Migori	9885
+9	ndori	siaya	987
+11	akala	aluor	897
+12	Kericho	Kericho	54689
+13	Bomet	Kericho	749
+14	Wajir	North Eastern	78495
+15	New York	Washington	48965
+16	Londiani	kilifi	74851
+17	fdnkdf	vfnrgt	12153
+18	Bondo	Siaya	589
